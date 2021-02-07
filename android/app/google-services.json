@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836965249832",
+    "project_id": "e-healthsg",
+    "storage_bucket": "e-healthsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836965249832:android:95b626e71e4e6c3dd3d61d",
+        "android_client_info": {
+          "package_name": "com.jasminenguyen.ehealthsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836965249832-i22mb0f84q9967vrak0bit0etgitnm1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcVxe-przq17thpILjCsodb3XYuNNN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836965249832-i22mb0f84q9967vrak0bit0etgitnm1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
